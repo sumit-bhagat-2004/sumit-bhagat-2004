@@ -5,7 +5,7 @@
 👯 I’m looking to collaborate on **AI, Web Dev, and Open Source projects**.<br>  
 🤝 I’m looking for help with **Cloud Computing**.<br>  
 🚀 I have completed a **course on Python**.<br>  
-🌱 I’m currently learning **Machine Learning, Java, and Kubernetes**.<br>  
+🌱 I’m currently learning **Machine Learning and Java**.<br>  
 💬 Ask me about **Web Development, Python, Cloud, and Open Source**.<br>  
 ⚡ Fun fact: **I love exploring new tech trends!**  
 
