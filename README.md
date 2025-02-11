@@ -107,6 +107,7 @@ If you enjoy my work, consider **buying me a coffee** ☕
 </a>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sumit-bhagat-2004&icon=0&color=12" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sumit-bhagat-2004&color=blue" alt="Profile Views"/>
 </p>
+
 
