@@ -50,12 +50,12 @@
 
 ### 🌐 **Web Development**
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
 ### ☁️ **Cloud & DevOps**
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase" />
     <br>
     <img src="https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
     <img src="https://img.shields.io/badge/DynamoDB-%230052CC.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
@@ -65,14 +65,14 @@
 
 ### 🛠️ **Tools & Platforms**
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=github,vercel,photoshop" />
+    <img src="https://skillicons.dev/icons?i=github,vercel,photoshop,vscode,postman,flask,anaconda" />
     <br>
     <img src="https://img.shields.io/badge/Microsoft_Office-%23D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </p>
 
 ### 🗄️ **Databases**
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,dynamodb" />
 </p>
 
 ---
